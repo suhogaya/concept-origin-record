@@ -1,0 +1,64 @@
+개념 선언문의 해시 생성 시점 기록
+
+본 문서는 아래 개념 선언에 대한 시점 고정용 SHA-256 해시가 존재함을 문서화합니다:
+
+- 일기(逸氣)
+- 확률메타
+- 위역(位域)
+
+---
+
+## 시점 정리
+
+• 일기(逸氣), 확률메타  
+  - 구상 및 명명: 2025년 5월 말  
+  - 해시 생성일: 2025년 6월 11일
+
+• 위역(位域)  
+  - 구상: 2025년 5월 말  
+  - 명명 및 해시 생성: 2025년 6월 13일
+
+---
+
+해시는 제안자가 정리한 한글 선언문 원본을 기준으로 생성되었으며,  
+공개 저장소에는 해시값을 포함하지 않습니다.
+
+필요 시 제3자 검증 또는 감사 요청에 따라 제공될 수 있습니다.
+
+본 기록은 위 개념들이 해당 시점 이전에 존재하였음을 증명하기 위한 것입니다.
+
+# SHA-256 Hash Record of Conceptual Declaration
+
+This file documents the existence and timestamp of hash records  
+used to verify the original conceptual declaration of the following terms:
+
+- Ilgi (逸氣)
+- Probabilistic Meta
+- Wiyuk (位域)
+
+---
+
+## Timeline Summary
+
+• **Ilgi (逸氣)** and **Probabilistic Meta**  
+  - Conceptualized: Late May 2025  
+  - Named: Late May 2025  
+  - Hashed: 2025-06-11
+
+• **Wiyuk (位域)**  
+  - Conceptualized: Late May 2025  
+  - Named: 2025-06-13  
+  - Hashed: 2025-06-13
+
+---
+
+The SHA-256 hashes were generated using the finalized Korean text  
+of the conceptual declaration, as prepared by the proposer.
+
+For verification or audit purposes, the hashes can be disclosed upon request.
+
+No hash values are made public in this repository to preserve the integrity  
+and traceability of the original private documents.
+
+This record establishes the existence and prior authorship of the concepts  
+as of the dates listed above.
