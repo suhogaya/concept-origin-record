@@ -30,8 +30,8 @@ SHA256 hashes are provided for verifying the authenticity of each declaration.
 
 ## 📎 Notes
 
-This repository does not contain any interpretations, explanations, or structural analysis.
+This repository does not contain any interpretations, explanations.
 
 > **한글:**  
-> 이 저장소에는 해석, 설명, 구조적 연결이 포함되어 있지 않으며  
+> 이 저장소에는 해석, 설명이 포함되어 있지 않으며  
 > 선언문 자체만을 기록합니다.
