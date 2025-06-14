@@ -1,4 +1,4 @@
-
+Conceptual declarations possibly related to probabilistic generative model structures.
 # concept-origin-record
 
 This repository contains standalone declaration documents and corresponding hash records.
