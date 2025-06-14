@@ -1,0 +1,66 @@
+# 개념 선언문의 해시 생성 시점 기록
+
+본 문서는 아래 개념 선언에 대한 시점 고정용 SHA-256 해시가 존재함을 문서화합니다:
+
+- 확률메타 (재정의)
+- 초월확률 (최초 정의)
+
+---
+
+## 📌 시점 정리
+
+### • 확률메타
+- 초안 구상 및 명명: 2025년 5월 말
+- 최초 선언일: 2025년 6월 13일
+- 재정의 및 발표일: 2025년 6월 15일
+- 해시 생성일: 2025년 6월 15일
+
+### • 초월확률
+- 개념 구상 및 명명: 2025년 6월 14일
+- 최초 선언 및 발표일: 2025년 6월 15일
+- 해시 생성일: 2025년 6월 15일
+
+---
+
+해시는 제안자가 정리한 한글 선언문 원본을 기준으로 생성되었으며,  
+공개 저장소에는 해시값을 포함하지 않습니다.
+
+필요 시 제3자 검증 또는 감사 요청에 따라 제공될 수 있습니다.
+
+본 기록은 위 개념들이 해당 시점에 명확히 존재했음을 증명하기 위한 것입니다.
+
+---
+
+# SHA-256 Hash Record of Conceptual Declaration
+
+This document certifies the existence of timestamped SHA-256 hashes  
+for the following conceptual declarations:
+
+- **Probability Meta** (Redefinition)
+- **Trans-Probability** (Initial Definition)
+
+---
+
+## 📌 Timeline Summary
+
+### • Probability Meta
+- Conceptualized and named: Late May 2025  
+- First declared: 2025-06-13  
+- Redefined and republished: 2025-06-15  
+- Hash generated: 2025-06-15
+
+### • Trans-Probability
+- Conceptualized and named: 2025-06-14  
+- First declared: 2025-06-15  
+- Hash generated: 2025-06-15
+
+---
+
+The hashes were generated based on the finalized Korean version  
+of the original conceptual declarations, as written and compiled by the proposer.
+
+Hash values are **not published in this repository** in order to preserve integrity.  
+They can be disclosed for third-party verification or audit upon request.
+
+This record confirms that the above concepts were fully defined and authored  
+**as of the dates indicated**, with cryptographic timestamp assurance.
