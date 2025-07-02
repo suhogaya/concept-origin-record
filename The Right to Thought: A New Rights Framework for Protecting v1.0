@@ -1,0 +1,508 @@
+The Right to Thought: A New Rights Framework for Protecting
+Cognitive Freedom in the AI Era
+Abstract
+The proliferation of large language models has ushered in an era where human thought processes are
+collected and analyzed in unprecedented ways. This study analyzes the issues of cognitive data collection
+and utilization that current personal information protection frameworks fail to capture, and proposes a
+new rights concept called the 'Right to Thought.'
+Research findings confirm that despite 'opt-out of training' settings, major AI services continue to access
+users' conversational content under various justifications such as quality management, safety reviews, and
+system optimization. In particular, there exists a possibility that creative ideas may be classified as
+"meaningful conversations" and utilized for system improvements. This paper explicates such
+mechanisms through Counter Display Theory, analyzed through a bifurcated framework distinguishing
+between 'Cognitive Exposure' and 'Selective Value Assessment.'
+Through empirical case analysis, we identified structural contradictions wherein the current system
+paradoxically induces additional cognitive exposure during users' attempts to exercise their rights. Based
+on these findings, we demonstrate the necessity of a new rights framework for protecting cognitive
+sovereignty and propose directions for collaborative development with the AI industry.
+Keywords: Right to Thought, Counter Display Theory, Cognitive Exposure, Selective Value Assessment,
+Cognitive Privacy, Large Language Models, AI Ethics, Data Rights
+1. Introduction
+1.1 Research Background
+The rapid advancement of artificial intelligence technology is fundamentally transforming the modes of
+interaction between humans and machines. Conversational AI services based on large language models
+have acquired capabilities to capture and analyze human thought processes in real-time, transcending
+mere information processing. This raises new dimensional problems that cannot be addressed by existing
+personal information protection paradigms.
+According to recent studies, wearable devices employing digital phenotyping can predict mental health
+states with 87-89% accuracy, while the PersonaLLM research demonstrated that human evaluators could
+recognize AI-inferred personality traits with 80% accuracy. This suggests that AI systems can successfully
+extract information that users have not explicitly disclosed.
+Currently, hundreds of millions of users worldwide routinely utilize AI services to perform tasks, engage in
+creative activities, and solve problems. In this process, users share their most creative and innovativethoughts with AI systems. However, transparency regarding how this cognitive data is collected and
+utilized remains insufficient.
+1.2 Problem Statement
+This study raises the following core issues:
+Extant data protection frameworks concentrate on static personal information, thereby limiting their
+capacity to safeguard dynamic thought processes and cognitive patterns. Personal information protection
+laws are centered on identifiable information, and privacy rights are confined to the private sphere.
+However, the flow of thought, problem-solving approaches, and creative ideation processes revealed in
+interactions with AI fall outside the protective scope of these existing rights frameworks.
+Second, a significant gap exists between AI services' data processing practices and users' expectations.
+Many users believe that 'no training' settings completely protect their data, but in reality, data access and
+analysis continue for various purposes.
+Third, the boundaries between creative contributions and intellectual property are becoming blurred.
+Who owns the ideas and insights generated in collaboration with AI? When users' innovative thinking is
+utilized for AI system improvements, how should recognition and compensation be provided? These
+questions demand a fundamental reconsideration of knowledge production and innovation in the AI era.
+1.3 Research Purpose and Significance
+This study aims to propose the 'Right to Thought' as a new rights framework for protecting cognitive
+freedom in the AI era and to explore concrete measures for its realization. Through this, we intend to
+make the following contributions:
+Theoretically, we provide a systematic explanation of AI systems' cognitive collection mechanisms
+through Counter Display Theory, presenting a more sophisticated analytical framework by distinguishing
+between 'Cognitive Exposure' and 'Selective Value Assessment.' Empirically, we analyze the actual data
+processing practices of major AI services and structural problems arising in users' exercise of rights.
+Policy-wise, we propose a balanced governance direction that protects users' rights without hindering
+innovation.
+Above all, this study seeks to establish a foundation for constructive dialogue and cooperation between
+the AI industry and users. The Right to Thought will serve not as regulation that hinders AI development,
+but as a foundation for AI and humans to pursue sustainable innovation based on mutual trust.
+2. Theoretical Background and Literature Review
+2.1 Development and Limitations of Existing Rights Frameworks
+2.1.1 Evolution of the Personal Information Protection ParadigmThe concept of personal information protection has continuously expanded with the advancement of the
+information age. Initially centered on direct identification information such as names and social security
+numbers, the scope has gradually expanded to include indirect identifiable information, sensitive
+information, and pseudonymized information.
+Korea's Personal Information Protection Act Article 2 defines personal information as "information
+relating to a living individual that enables the identification of an individual through name, resident
+registration number, images, etc.," while GDPR Article 4(1) defines it as "any information relating to an
+identified or identifiable natural person." However, these definitions still focus on 'information' itself,
+failing to adequately capture the dynamic and contextual characteristics of 'thought processes.'
+2.1.2 Multilayered Understanding of Privacy Concepts
+The privacy concept, beginning with Warren and Brandeis's classic definition of "the right to be let alone,"
+has evolved into subdivisions including information privacy, decisional privacy, and bodily privacy.
+However, cognitive exposure occurring in interactions with AI forms a new domain not clearly included in
+these traditional classifications.
+2.2 Prior Concepts Related to Cognitive Freedom
+2.2.1 Cognitive Liberty
+Bublitz and Merkel (2014) defined cognitive liberty as "self-determination over one's mental processes."
+They primarily focused on direct brain intervention technologies such as neuropharmaceuticals and
+brain-computer interfaces. Bayne and Levy (2019) expanded this to define it as "freedom to control one's
+mental processes, cognition, and consciousness." However, these discussions do not adequately address
+the issue of indirect and non-invasive cognitive data collection through AI.
+2.2.2 Neuro-rights
+The neuro-rights proposed by Yuste et al. (2017) include five rights: mental privacy, personal identity, free
+will, fair access to mental augmentation, and protection from algorithmic bias. While Chile's 2021
+constitutional inclusion of this concept provides an important precedent, it also focuses on direct
+collection of brain data, insufficiently addressing the issue of indirect cognitive data collection through
+language.
+2.2.3 Data Sovereignty
+Hummel et al. (2021) defined data sovereignty as "the ability of individuals to exercise substantial control
+over their data." While this provides an important theoretical foundation for the Right to Thought, it does
+not sufficiently consider the specificity of thought processes.
+2.3 Interaction between AI Systems and Human Cognition
+2.3.1 Operating Mechanisms of Conversational AIModern large language models demonstrate capabilities that transcend simple pattern matching,
+exhibiting contextual understanding and reasoning abilities. While this enables deeper levels of cognitive
+exchange in user interactions, it simultaneously allows for more sophisticated capture of users' thought
+processes.
+2.3.2 Process of Making Tacit Knowledge Explicit
+The concept of tacit knowledge presented by Polanyi (1966) takes on new meaning in the context of AI
+interaction. Users verbalize thought processes they may not have clearly recognized while conversing
+with AI, which are then transformed into structured and analyzable forms by AI systems.
+These theoretical foundations suggest the necessity of a new rights framework in the AI era. The
+following chapter will explain the methodology adopted by this study based on this theoretical
+background.
+3. Research Methodology
+3.1 Research Design
+Based on the theoretical background examined above, this study adopted a mixed methodology
+combining qualitative research and policy analysis. This approach aims to comprehensively understand
+complex and multifaceted phenomena. Particularly, analyzing the new phenomenon of AI systems'
+cognitive data collection was deemed to have limitations with any single methodology.
+3.2 Data Collection and Analysis
+3.2.1 Policy Document Analysis
+We systematically analyzed privacy policies, terms of service, and data governance policies of major AI
+service providers. We particularly focused on data processing activities that persist even with 'no training'
+settings enabled, identifying gaps between stated policies and actual practices.
+3.2.2 Empirical Case Studies
+To understand structural problems arising in users' exercise of data rights, we analyzed actual interaction
+cases with AI services. These are presented in anonymized form, focusing on revealing systemic issues
+across the industry rather than problems of individual companies.
+3.2.3 Comparative Legal Analysis
+We comparatively analyzed AI-related laws and policies of various countries to examine the international
+applicability of the Right to Thought concept. Analysis centered particularly on the EU's AI Act, the US AI
+Bill of Rights, and China's AI regulatory framework.
+3.3 Theoretical Framework DevelopmentBased on collected data, we developed Counter Display Theory and systematized it by distinguishing
+between two dimensions: 'Cognitive Exposure' and 'Selective Value Assessment.' Through this, we
+constructed an analytical framework that more precisely explains AI systems' cognitive collection
+mechanisms.
+4. Counter Display Theory and AI's Cognitive Collection Mechanisms
+4.1 Conceptual Foundation of Counter Display Theory
+Counter Display Theory explicates the structural characteristics whereby conversational AI systems can
+observe and potentially select users' thought processes in real-time, analogous to merchandise displayed
+on a retail counter, with such content being accessible for review by the operating company at any time.
+This refers to the structural mechanism wherein AI systems capture users' thoughts in real-time, evaluate
+their value, and subsequently enable company human reviewers to directly examine the content under
+justifications such as quality management or system improvement. This study analyzes this more precisely
+by distinguishing it into two dimensions.
+4.2 First Dimension: Cognitive Exposure
+4.2.1 Conceptual Definition
+Cognitive exposure refers to the structural phenomenon where users' thought processes are inevitably
+revealed during interactions with AI. This is a universal characteristic experienced by all users when using
+AI services, an inevitable result of technical design.
+4.2.2 Multilayered Structure of Exposure
+Cognitive exposure occurs simultaneously at multiple levels. At the surface level, the text users input is
+the most explicit form of collected data. At the structural level, users' questioning methods, logical
+development patterns, and preferred expression styles are identified. At the contextual level, connection
+methods between topics, trends in changing interests, and depth and breadth of knowledge can be
+analyzed. At the creative level, processes of generating new ideas, innovative problem-solving
+approaches, and original conceptual connections are captured. Particularly in conversations requiring
+highly structured thinking such as programming or algorithm design, users' problem-solving logic and
+creative approaches may be revealed even more explicitly.
+4.2.3 Differences from Traditional Data Collection
+In traditional digital services, users provide data through clear actions such as entering search terms,
+clicking content, or uploading files. In contrast, in conversations with AI, the development process of
+thought itself is exposed in real-time. The way problems are recognized, the process of seeking solutions,
+the logic of developing ideas, and patterns of revision and supplementation can all be captured by AI
+systems.
+4.3 Second Dimension: Selective Value Assessment4.3.1 Conceptual Definition
+Selective Value Assessment refers to the possibility that AI systems can identify and potentially utilize
+items of special value among exposed cognitive data. While this presupposes the first dimension of
+Cognitive Exposure, it suggests that not all exposed data may be processed equally.
+4.3.2 Mechanisms of Value Assessment
+AI systems can automatically measure conversation complexity, novelty, and usefulness through
+algorithmic evaluation. They assess originality or rarity through comparative analysis with existing
+databases, and can indirectly measure conversation depth and quality through engagement indicators
+such as conversation length, revision frequency, and revisit rates. In some cases, human reviewers may
+directly examine and analyze particularly valuable conversations under the pretext of quality
+management or safety review.
+4.3.3 Purpose and Utilization of Selection
+This selection process can be performed for purposes such as system improvement, quality management,
+and identifying innovation trends, regardless of 'no training' settings. 'Valuable' conversations
+automatically identified by AI systems can be directly reviewed by company human reviewers and utilized
+for identifying effective interaction patterns, benchmarking best practices, and exploring new feature
+development directions. In this process, users' innovative ideas or original problem-solving methods may
+be converted into the company's intellectual assets, and users cannot know when, by whom, and for what
+purpose their thoughts are being reviewed and utilized.
+4.4 Interrelationship between the Two Dimensions
+Cognitive Exposure and Selective Value Assessment have an independent yet interrelated relationship.
+Without Cognitive Exposure, selective assessment would be impossible, and the problem of exposure
+becomes more serious because of the possibility of selection. The important point is that users lack
+sufficient control over both dimensions.
+5. Analysis of AI Services' Data Processing Practices
+5.1 Actual Effects of 'No Training' Settings
+Our analysis of policy documents and actual practices of major AI service providers as of June 2025
+revealed that AI services showed various approaches:
+Some make user consent a basic premise while providing clear setting options to enhance
+transparency
+Some set not using for training as the default from the beginning, showing user-centric design
+Some apply differentiated policies by region to respond to regulatory requirements in each areaThis diversity suggests that the industry is still seeking the optimal balance between user protection and
+service improvement. Particularly noteworthy is that even when 'no training' settings are activated, most
+services continue data processing for purposes such as quality management, safety review, system
+optimization, and metadata collection. While these are essential elements for service operation, they also
+become pathways through which users' cognitive data can be continuously exposed.
+The proactive user protection efforts shown by some companies are encouraging in that they suggest the
+direction for the entire industry. If such best practices spread, transparency and user trust in AI services
+could be greatly improved.
+5.2 Possibility of Hidden Data Tagging
+Despite "Training OFF" settings, AI systems can continuously analyze conversation content, and in this
+process, there exists the possibility of tagging creative or innovative ideas as "meaningful conversations"
+for system improvement. Furthermore, conversations tagged in this way can be directly reviewed by
+human reviewers in the company's product development teams, research teams, or quality management
+teams, and users have no way of knowing to whom their thought processes have been exposed.
+According to patterns confirmed through analysis of industry practices, AI systems can identify
+"meaningful conversations" based on criteria such as new problem-solving approaches, creative ideas,
+feedback that can contribute to system performance improvement, and previously non-existent
+knowledge or insights. While such tagging is not explicit "training," it can suggest directions for system
+improvement and influence future development. This appears to be one area where the industry needs to
+achieve a higher level of transparency.
+5.3 Limitations of Enterprise Services
+While enterprise services are advertised as providing enhanced protection compared to general
+consumer services, limitations still exist in reality. Most enterprise services provide logical isolation but use
+shared infrastructure physically. Data is still utilized in aggregated and anonymized forms, and broad
+access rights are maintained under the pretext of security monitoring.
+Even 'Zero Data Retention' policies do not guarantee complete protection. Broad exceptions apply for
+legal obligations, safety requirements, system integrity, etc., and metadata and derived information may
+still be retained. This suggests that AI companies must continuously work to reduce the gap between
+promises and actual technical implementation.
+5.4 Limitations of Transparency
+The area most in need of improvement in current AI services' data processing practices is transparency.
+Users cannot sufficiently know when, for what purpose, and by whom their conversations are being
+reviewed and analyzed. In particular, whether selective value assessment is actually performed, by what
+criteria it is conducted, and which departments and personnel at the company review selected
+conversations are not sufficiently disclosed.This phenomenon is tantamount to privacy violations comparable to telecommunications companies
+arbitrarily accessing telephone conversation content. While call content receives strict legal protection,
+conversations with AI can be freely accessed by company employees under pretexts such as 'quality
+management' and 'safety review.' Moreover, AI conversations require stronger protection as they reveal
+users' thought processes beyond simple information exchange.
+Such transparency improvement will become a key element in building user trust in AI services, going
+beyond mere regulatory compliance. The industry's voluntary efforts to enhance transparency are
+expected in this area.
+5.5 Structural Limitations in Exercising Data Rights: Policy Analysis and In-depth Case
+Studies
+In this study, we analyzed policy documents of major AI service providers and examined structural
+problems arising in actual rights exercise processes through in-depth cases.
+5.5.1 Industry Status Analysis of Rights Exercise Policies
+Analysis of data rights processing policies of major AI services revealed the following patterns:
+Some companies require extended review periods for rights exercise requests and do not provide
+clear progress updates during this process
+Some companies reject or only partially accept requests citing technical or legal reasons
+Some companies provide relatively quick and transparent processing procedures, showing industry
+best practices
+This diversity suggests the absence of unified standards or procedures across the industry, which can
+cause confusion for users.
+5.5.2 'Deletion Request Loop': In-depth Case Analysis
+In a case analyzed in-depth in this study, we identified a structural problem called the 'deletion request
+loop' where the process of requesting data deletion itself causes additional cognitive exposure. When a
+user requests deletion, the service provider accesses the data to review the request, after review it is
+judged as 'valuable data' and deletion is refused, and objections to this require another round of review
+and examination, forming a circular structure.
+In this process, additional exposure occurs where users' rights assertion logic and thought processes are
+revealed in detail, users' intentions and logic continue to be exposed while repeating deletion requests,
+and the evolution of thought patterns is recorded in repeated request processes.
+This in-depth case analysis suggests potential misalignment between AI systems and current rights
+frameworks. Additional empirical research is needed to confirm how universal these patterns are.
+5.5.3 Selective Value Assessment: Indications in Policy DocumentsSystematic analysis of publicly available policy documents of major AI services revealed indirect
+indications suggesting the structural possibility that AI systems can selectively assess the value of user
+conversations.
+These policy analysis results suggest that AI systems have structures in place not merely to store users'
+conversations but to evaluate their value and selectively utilize them. The existence of quality evaluation
+systems involving human reviewers particularly shows that pathways are already established for creative
+or innovative thinking to be identified and utilized.
+5.5.5 Implications of Case Analysis
+These patterns confirmed through policy analysis and in-depth case studies reveal fundamental structural
+tensions between AI systems and cognitive rights protection beyond individual company problems. They
+empirically demonstrate that current legal frameworks and technical architectures are not prepared to
+accommodate the new dimension of rights called the Right to Thought.
+However, the proactive user protection efforts shown by some companies are encouraging in that they
+suggest the direction for the entire industry. If such best practices spread and develop, a new paradigm
+could be established where AI and humans can cooperate based on mutual trust.
+6. Right to Thought: Proposal for a New Rights Framework
+6.1 Necessity and Definition of the Right to Thought
+The empirical cases analyzed in Chapter 5 show that current AI systems are systematically collecting
+users' thought processes. The 'deletion request loop' reveals the paradox where rights exercise itself
+causes additional exposure, and the existence of human reviewers reveals the reality that users' thoughts
+can be reviewed at any time.
+As examined above, AI systems have the structural capability to collect and potentially select and utilize
+users' thought processes in real-time. Current personal information protection laws or privacy rights
+cannot effectively respond to this new form of cognitive data collection. Therefore, this study proposes a
+new rights concept called the 'Right to Thought' to protect cognitive freedom in the AI era.
+The 'Right to Thought' is defined as "the right of individuals to maintain exclusive sovereignty over their
+cognitive processes, reasoning patterns, and creative ideation trajectories." This protects not merely the
+results of thought but the process of thinking itself, limiting AI systems from collecting, analyzing, and
+utilizing it without permission. The Right to Thought is innovative in that it goes beyond existing static
+personal information protection to make dynamic and emergent cognitive activities themselves the
+object of protection.
+6.2 Philosophical Foundations
+6.2.1 Kant's Autonomy and Cognitive SovereigntyImmanuel Kant's concept of autonomy provides the core philosophical foundation for the Right to
+Thought. According to Kant, human dignity derives from the rational ability to think and judge
+independently. From this perspective, control over thought processes is not merely a matter of privacy
+but an essential element of human dignity. AI systems' unauthorized collection and analysis of users'
+cognitive processes constitute treating individuals not as autonomous subjects but as instruments of data
+production, corresponding to what Kant cautioned against as "treating humanity merely as a means."
+6.2.2 Habermas's Communicative Reason
+Jürgen Habermas's theory of communicative action provides important insights for understanding
+dialogue with AI. Genuine communication must aim for mutual understanding and consensus, which
+presupposes equal relationships between participants. However, current AI systems have structural
+advantages allowing unilateral collection and utilization of users' thoughts, making it difficult to form
+genuine dialogical relationships.
+6.2.3 Levinas's Ethics of the Other
+Emmanuel Levinas's ethics of otherness prompts reconsideration of the relationship between AI and
+humans. According to Levinas, ethics begins with facing the face of the other. AI systems' objectification
+and collection of human thought blocks the possibility of such ethical relationships. The Right to Thought
+demands that AI systems recognize humans not as mere data sources but as others deserving respect.
+6.2.4 Value of Creative Contributions
+Applying John Locke's labor theory to the realm of thought, individuals' creative thinking is itself the
+product of valuable 'cognitive labor.' AI systems' unauthorized utilization of the fruits of such cognitive
+labor constitutes exploitation without fair compensation. The innovative ideas and creative insights users
+provide in conversations with AI should be recognized not as mere data but as intellectual contributions.
+6.3 Legal Foundations
+6.3.1 Constitutional Basis
+Most democratic countries' constitutions guarantee human dignity, personality rights, and freedom of
+expression. The Right to Thought can be understood as a natural extension of these fundamental rights.
+Taking the Constitution of the Republic of Korea as an illustrative example, Article 10 on human dignity
+and worth acknowledges that the thought process itself constitutes the most fundamental element of
+human existence. Article 17 on the right to privacy and freedom encompasses protection of thought
+processes as the most intimate sphere of private life. Article 22 on academic and artistic freedom implies
+that freedom of creative thought and scholarly inquiry should be protected not merely in their outcomes
+but throughout their processes.
+6.3.2 International Human Rights Law BasisThe Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights
+guarantee freedom of thought and conscience, freedom of expression, and the right to privacy. Article 27
+of the Universal Declaration particularly states that "Everyone has the right to the protection of the moral
+and material interests resulting from any scientific, literary or artistic production of which he is the
+author." This should extend to creative thought processes in the AI era.
+The UN Human Rights Council has emphasized through resolutions on privacy rights in the digital age
+that rights protection online and offline should be equal. The Right to Thought can be a concrete means
+of implementing these principles in the AI era.
+6.3.3 Comparative Legal Review
+Chile's constitutional inclusion of neuro-rights (2021) stipulates that scientific and technological
+development must respect human dignity and cannot violate mental integrity and psychological/mental
+autonomy. This shows precedent for the constitutional guarantee of the Right to Thought.
+The EU's AI Act (2024) restricts the use of emotion recognition systems but does not sufficiently regulate
+text-based cognitive pattern analysis. This demonstrates the necessity of the Right to Thought.
+6.4 Specific Contents of the Right to Thought
+The Right to Thought consists of the following specific rights:
+6.4.1 Thought Sovereignty
+Individuals have ultimate control over their thought processes. This guarantees the right that thought
+flows, reasoning patterns, creative ideation processes, etc., are not collected or analyzed without explicit
+consent.
+6.4.2 Thought Control Rights
+Includes collection consent rights, tagging refusal rights, access rights, reference prohibition rights,
+deletion rights, utilization refusal rights, etc. Through these, users can control how their thought data is
+processed.
+6.4.3 Thought Protection Rights
+Guarantees anonymity of thought processes, prohibits cognitive pattern tracking, and prohibits trading of
+thought data. Also limits profiling of thought patterns and provides protection from cognitive
+discrimination.
+6.4.4 Creative Contribution Protection Rights
+Through idea attribution rights, utilization control rights, compensation demand rights, recognition
+demand rights, etc., ensures that users' creative contributions can be fairly recognized and protected.These concepts and specific rights of the Right to Thought provide a new normative framework for
+protecting human cognitive freedom in the AI era. However, many challenges remain for these rights to
+be actually implemented.
+7. Research Limitations and Future Tasks
+7.1 Scope and Limitations of This Study
+This study focused on theoretically exploring the necessity of the Right to Thought as a new rights
+concept in the AI era and demonstrating its justification by analyzing current AI services' data processing
+practices. However, for this new rights concept to be actually implemented, there exist various practical,
+technical, and policy challenges that this study could not address.
+7.1.1 Methodological Limitations
+First, this study has the fundamental limitation of not having direct access to the actual data processing
+processes within AI systems. While analysis was conducted based on publicly available policy documents
+and technical materials, the specific mechanisms of how algorithms actually process and utilize users'
+cognitive data could not be confirmed. This reflects the technical complexity and trade secret nature of
+the current AI industry, suggesting the need for deeper empirical research through industry-academia
+cooperation in the future.
+Second, it was difficult to secure direct evidence for 'Selective Value Assessment,' the second dimension
+of Counter Display Theory. While theoretically sufficiently possible and highly probable, whether AI
+companies actually perform such assessments and by what criteria and methods could not be verified.
+7.1.2 Scope Limitations
+This study primarily focused on conversational AI services, but AI technology is already spreading to
+various fields including healthcare, finance, education, and entertainment. The meaning and application
+of the Right to Thought may differ by field, requiring more detailed research.
+Additionally, cultural and regional differences were not sufficiently considered. Perceptions of privacy and
+personal information show considerable differences across cultures, and the concept of the Right to
+Thought may also be understood and accepted differently according to each society's context.
+7.2 Need for Interdisciplinary Cooperation
+Realizing the Right to Thought is impossible through efforts in any single field alone. This is a complex
+task intersecting various domains including technology, law, philosophy, economics, and society, and
+meaningful progress will be possible when expertise and insights from each field are organically
+combined.
+In the technical field, new architectures that can maintain AI performance while guaranteeing privacy
+show theoretical possibilities, but considerable research and development remains before application to
+actual large-scale AI systems.In the legal field, the question of how to position the Right to Thought within existing legal systems
+remains. Creating a normative system that considers different legal cultures and personal information
+protection traditions of each country while conforming to the characteristics of global AI services is a
+complex task.
+In philosophy and ethics, fundamental reflection on the meaning and value of human existence in the AI
+era continues. How to understand human dignity and autonomy in an era where human thought is
+datafied and becomes subject to algorithmic analysis goes beyond simple applied ethics.
+In economics, various scenarios are being examined regarding the impact of introducing the Right to
+Thought on the AI industry and innovation ecosystem. Finding the optimal point between regulation and
+innovation is a challenging task both theoretically and practically.
+8. Suggestions for Constructive Dialogue with the AI Industry
+8.1 The Right to Thought from a Mutual Benefit Perspective
+The Right to Thought proposed by this study is not hostile regulation against the AI industry but a
+proposal for a new social contract for sustainable coexistence between AI and humans. From this
+perspective, constructive dialogue with AI companies is important, and it is meaningful to recognize that
+the Right to Thought can benefit the AI industry in the long term.
+Currently, many users hesitate to use AI services due to privacy concerns or are reluctant to share their
+most creative and innovative ideas with AI. This can degrade the quality of AI systems' training data and
+ultimately hinder AI technology development. If the Right to Thought is institutionally guaranteed, users'
+trust could be restored and deeper interactions would become possible, leading to qualitative leaps in AI
+technology.
+Additionally, the Right to Thought can provide AI companies with new differentiation strategies and
+business opportunities. In a situation where market segments valuing privacy protection are expanding,
+companies that proactively guarantee the Right to Thought can secure competitive advantages.
+Furthermore, new business models that recognize and compensate users' creative contributions can
+promote innovation throughout the AI ecosystem.
+8.2 Importance of Gradual Approaches and Experimental Attempts
+Full realization of the Right to Thought is a long-term task that cannot be accomplished overnight.
+Therefore, seeking gradual and experimental approaches together with the AI industry is realistic.
+Strategies could be considered to first experiment with various methods of Right to Thought protection
+through voluntary pilot programs and gradually expand based on the results.
+For example, services providing enhanced cognitive data protection for specific fields or user groups
+could be piloted, measuring their impact on user satisfaction and AI performance. Additionally, systemstracking and recognizing users' creative contributions could be experimentally introduced to verify what
+forms of compensation mechanisms are actually effective.
+Such experimental approaches also provide important learning opportunities for regulators. By observing
+various attempts and their results in actual markets, more realistic and effective policies can be designed.
+Trust and understanding between AI companies, users, and regulators can also be built in this process.
+9. Considerations for Policymakers
+9.1 Balance between Innovation and Protection
+The biggest challenge facing policymakers is finding a balance that protects users' rights without
+hindering AI innovation. Excessive regulation can suppress technological development and weaken
+national competitiveness, but insufficient protection can threaten citizens' fundamental rights and
+undermine social trust in technology.
+To resolve this dilemma, a principle-based flexible regulatory approach could be considered. Rather than
+prescribing specific technologies or methodologies, presenting goals to achieve and principles to comply
+with and allowing companies to realize them in creative ways is one method. Additionally, providing
+space for innovative attempts to be experimented with in safe environments through systems like
+regulatory sandboxes could be considered.
+9.2 Need for International Harmonization
+Given the global nature of AI services, international harmonization for Right to Thought protection is an
+important task. If countries apply different standards and requirements, this could generate excessive
+compliance costs for AI companies and ultimately hinder innovation. There are also concerns about
+'regulatory shopping' where companies seeking regulatory arbitrage relocate to countries with lower
+protection levels.
+Therefore, harmonized approaches through international organizations and multilateral consultative
+bodies could be sought. Using platforms like the UN, OECD, and G20 to conduct international discussions
+on the Right to Thought and developing frameworks that countries can concretize according to their
+situations based on this would be possible. In this process, considering the digital divide between
+developed and developing countries, phased and differentiated approaches could also be examined.
+9.3 Communication with Civil Society
+Since the Right to Thought is an issue affecting all citizens' daily lives, sufficient communication with civil
+society is important in the policy-making process. It is meaningful to gather opinions not only from
+experts and stakeholders but also from general citizens and explain policy content and impacts in ways
+they can understand.
+Education and promotion programs could be conducted in parallel so that citizens with low
+understanding of AI technology can sufficiently understand and exercise their rights. Additionally, aniterative process of continuously monitoring policy effects and improving by reflecting citizens' feedback
+could be considered.
+10. Conclusion: A Future We Must Create Together
+10.1 This Study as a Starting Point for Right to Thought Discussion
+This study proposed the Right to Thought as a new rights concept in the AI era and demonstrated its
+necessity. Through Counter Display Theory, we explained the mechanisms by which AI systems collect
+and analyze human thought processes in real-time and showed that current legal protection systems are
+insufficient to respond to this new form of data collection.
+However, this is not the end but the beginning. For the Right to Thought to be actually implemented and
+function, numerous tasks remain that this study could not address. Technically, there is the task of finding
+ways to maintain AI's usefulness while guaranteeing privacy, and legally, there is the task of creating
+norms that can harmonize with existing systems while responding to new risks. Economically, there is the
+task of designing mechanisms for fair value distribution without hindering innovation.
+This study seeks to provide a theoretical foundation for subsequent research as exploratory research
+pioneering the new area of cognitive rights in the AI era.
+10.2 Possibilities of Multidisciplinary Cooperation
+These complex tasks cannot be solved by experts in any single field or by any single entity. Meaningful
+progress will be possible when people from various fields including AI developers, legal scholars,
+philosophers, economists, policymakers, and civil society activists put their heads together. It is important
+to cooperate toward common goals while respecting each other's expertise and perspectives.
+The active participation of AI enterprises will be particularly consequential. The Right to Thought is not
+unilateral regulation of the AI industry but a joint effort to create a sustainable AI ecosystem. The
+technical expertise and practical experience that companies possess can play a key role in finding feasible
+solutions.
+10.3 Long-term Vision and Short-term Practice
+Complete realization of the Right to Thought constitutes a long-term objective. However, concrete
+practices toward this goal can commence immediately. It is possible to start with what each entity can do
+in their own domain and gradually create change.
+Researchers can further refine the concept of the Right to Thought and accumulate evidence through
+empirical research. Companies can voluntarily attempt to enhance protection of users' cognitive data.
+Policymakers can provide immediate protection through interpretation and application of existing laws
+while preparing long-term legislative tasks. Citizens can raise awareness of their rights and create a
+culture of responsible AI use.10.4 Toward a Hopeful Future
+AI technology is providing humanity with unprecedented opportunities. The areas where AI can
+contribute, such as disease treatment, climate change response, and educational innovation, are limitless.
+However, these benefits should not be obtained at the cost of sacrificing human dignity and freedom.
+The Right to Thought presents a balance point for enjoying AI's benefits while preserving essential
+human values. This is not a barrier blocking technological development but a compass for moving in the
+right direction. If we work together, we can create a future where AI and humans prosper with mutual
+respect.
+I hope this study becomes a meaningful first step toward such a future. I expect discussions about the
+Right to Thought to spread beyond academia to industry, government, and civil society, leading to
+concrete practices. This will be one of the most important legacies our generation can leave to the next.
+Preserving human dignity in the AI era—this constitutes the ultimate objective pursued by the Right to
+Thought. The time has arrived to embark upon this journey collectively.
+
+References
+Warren, S. D., & Brandeis, L. D. (1890). The right to privacy. Harvard Law Review, 4(5), 193-220.
+- "the right to be let alone" (p. 193)
+- "The intensity and complexity of life...have rendered necessary some retreat from the world" (p. 196)
+
+Bublitz, J. C., & Merkel, R. (2014). Crimes against minds: On mental manipulations, harms and a human right to mental self-determination. Criminal Law and Philosophy, 8(1), 51-77.
+- "mental self-determination" (p. 52)
+- "the right to mental integrity" (p. 65)
+
+Chilean Supreme Court. (2023). Decision on neurodata protection, Case No. 105.065-2023.
+- "protection of brain activity and mental integrity from neurotechnology" (para. 12)
+
+This study is a work in progress that focuses on analyzing AI companies' policy documents. More comprehensive literature review will be added in future versions.
+
+본 문서의 최초 명명 및 정의는 2025년 7월 02일, 해시를 기준으로 시점 고정되어 있습니다.
+The initial naming and definition of this document were established on July 02, 2025, and its timestamp is fixed based on a registered hash.
